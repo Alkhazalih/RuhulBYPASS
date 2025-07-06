@@ -9,7 +9,7 @@ Versions supported with security updates.
 | 3.x.x   | :white_check_mark: |
 | < 3.0   | :x:                |
 
-**Updated** : **July, 6 2025 | 3:14 PM GMT+3**
+**Updated** : **July, 6 2025 | 3:14 AM GMT+3**
 
 ## Reporting a Vulnerability
 
